@@ -7,7 +7,7 @@ public class RunExamples {
 		
 		// Guava-dependent examples
 		new ImmutablesInGuava().run();
-		new MultiSetExample().run();
+		new MultiSetExample().run();//
 		new SplitJoinGuava().run();
 	}
 
